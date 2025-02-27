@@ -37,7 +37,7 @@ Rms = 2.02
 Mmd = 66.00
 Le = 1.68
 Re = 5.50
-Nd = 1
+OD = 1
 
 |ADVANCED DRIVER PARAMETER VALUES FOR SEMI-INDUCTANCE MODEL:
 
@@ -58,12 +58,12 @@ Added Mass = 0.00
 
 |CHAMBER PARAMETER VALUES:
 
-Vrc = 14.00
-Lrc = 16.00
-Fr = 40000.00
-Tal = 4.00
-Vtc = 900.00
-Atc = 350.00
+Vrc = 0.00
+Lrc = 0.00
+Ap1 = 530.90
+Lp = 1.00
+Vtc = 0.00
+Atc = 530.90
 
 Acoustic Path Length = 0.0
 
