@@ -8,7 +8,7 @@ Convertissons 4 boites de transport en merisier baltique de lasers femtoseconde 
 
 
 ## Matériaux
-Les dimensions des boites sont contenues dans le fichier `boite_lightcon_C231999.FCStd` (voir le tableur `dim` à l'intérieur). Ce fichier peut être ouvert avec [FreeCAD](https://www.freecad.org/). Les dimensions des panneaux et autres morceaux des boites sont dans un des onglets du fichier `boxplan.xls`.
+Les dimensions des boites sont contenues dans le fichier `boite_lightcon_C231999.FCStd` (voir le tableur `dim` à l'intérieur). Ce fichier peut être ouvert avec [FreeCAD](https://www.freecad.org/). Les dimensions des panneaux et autres morceaux des boites sont dans un des onglets du fichier `boxplan.xls`. Une photo des boites se trouve dans le fichier `boite.jpg`
 
 ## Moteur
 
