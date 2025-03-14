@@ -1,30 +1,30 @@
 ID = 55.30
 
-Comment = TL POC7 with 1 cm thick panels and Dayton PA310, WDH (34.1,65.2,100, DO 2.)
+Comment = TL POC7 with 1 cm thick panels and Dayton PA310, WDH (34.1,64.2,85, DO 2.)
 
 |RADIATION, SOURCE AND MOUTH PARAMETER VALUES:
 
 Ang = 0.5 x Pi
-Eg = 2.83
+Eg = 20.00
 Rg = 0.00
 Fta = 0.00
 
 |HORN PARAMETER VALUES:
 
-S1 = 654.70
-S2 = 654.80
-Con = 99.10
+S1 = 644.00
+S2 = 644.00
+Con = 84.00
 F12 = 0.00
-S2 = 654.80
-S3 = 654.80
-Exp = 15.30
+S2 = 644.00
+S3 = 644.00
+Exp = 15.10
 F23 = 0.00
-S3 = 654.80
-S4 = 654.80
-Con = 120.80
+S3 = 644.00
+S4 = 644.80
+Con = 92.00
 F34 = 0.00
-S4 = 654.80
-S5 = 654.80
+S4 = 644.80
+S5 = 644.80
 Con = 43.80
 F45 = 0.00
 
@@ -34,7 +34,7 @@ Sd = 530.90
 Bl = 18.11
 Cms = 2.28E-04
 Rms = 2.02
-Mmd = 66.00
+Mmd = 72.80
 Le = 1.68
 Re = 5.50
 OD = 1
