@@ -1,11 +1,11 @@
 ID = 55.30
 
-Comment = G-FOLD with Apollo12lf
+Comment = Dayton PA310 in GFOLD
 
 |RADIATION, SOURCE AND MOUTH PARAMETER VALUES:
 
 Ang = 2.0 x Pi
-Eg = 48.00
+Eg = 23.60
 Rg = 0.00
 Fta = 0.00
 
@@ -13,15 +13,15 @@ Fta = 0.00
 
 S1 = 575.00
 S2 = 575.00
-Con = 76.20
+Par = 76.20
 F12 = 0.00
 S2 = 575.00
 S3 = 575.00
-Exp = 51.50
+Par = 51.50
 F23 = 0.00
 S3 = 575.00
 S4 = 577.00
-Con = 15.40
+Par = 15.30
 F34 = 0.00
 S4 = 577.00
 S5 = 577.00
@@ -30,20 +30,20 @@ F45 = 0.00
 
 |TRADITIONAL DRIVER PARAMETER VALUES:
 
-Sd = 533.00
-Bl = 21.80
-Cms = 3.70E-04
-Rms = 2.96
-Mmd = 88.30
-Le = 1.47
-Re = 6.70
+Sd = 530.90
+Bl = 18.11
+Cms = 2.28E-04
+Rms = 2.02
+Mmd = 66.00
+Le = 1.68
+Re = 5.50
 OD = 1
 
 |ADVANCED DRIVER PARAMETER VALUES FOR SEMI-INDUCTANCE MODEL:
 
-Re' = 5.50
+Re' = 0.00
 Leb = 0.00
-Le = 1.68
+Le = 0.00
 Ke = 0.00
 Rss = 0.00
 
@@ -60,10 +60,10 @@ Added Mass = 0.00
 
 Vrc = 0.00
 Lrc = 0.00
-Ap1 = 0.00
-Lp = 0.00
+Ap1 = 530.90
+Lp = 1.00
 Vtc = 0.00
-Atc = 0.00
+Atc = 530.90
 
 Acoustic Path Length = 0.0
 
@@ -91,24 +91,24 @@ Tal4 = 100
 
 |ACTIVE BAND PASS FILTER PARAMETER VALUES:
 
-High Pass Frequency = 43
+High Pass Frequency = 35
 High Pass Slope = 1
-Low Pass Frequency = 151
+Low Pass Frequency = 158
 Low Pass Slope = 1
 
-Butterworth High Pass Order = 4
-Butterworth Low Pass Order = 5
-Linkwitz-Riley High Pass Order = 4
-Linkwitz-Riley Low Pass Order = 4
-Bessel High Pass Order = 4
-Bessel Low Pass Order = 4
+Butterworth High Pass Order = 1
+Butterworth Low Pass Order = 2
+Linkwitz-Riley High Pass Order = 2
+Linkwitz-Riley Low Pass Order = 2
+Bessel High Pass Order = 3
+Bessel Low Pass Order = 5
 
 2nd Order High Pass Q = 0.5
 2nd Order Low Pass Q = 0.5
 4th Order High Pass Q = 0.5
 4th Order Low Pass Q = 0.5
 
-Active Filter Alignment = 1
+Active Filter Alignment = 3
 Active Filter On / Off Switch = 3
 
 |PASSIVE FILTER PARAMETER VALUES:
@@ -158,9 +158,9 @@ Continuous Flag = 1
 
 Filter Type Index = 0
 Filter Input Index = 0
-Filter Output Index = 3
+Filter Output Index = 1
 
-Filter Type = 1
+Filter Type = 2
 
 MEH Configuration = 0
 ME Amplifier Polarity Value = 1
