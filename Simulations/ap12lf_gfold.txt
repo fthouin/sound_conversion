@@ -91,13 +91,13 @@ Tal4 = 100
 
 |ACTIVE BAND PASS FILTER PARAMETER VALUES:
 
-High Pass Frequency = 36
+High Pass Frequency = 43
 High Pass Slope = 1
-Low Pass Frequency = 167
+Low Pass Frequency = 151
 Low Pass Slope = 1
 
 Butterworth High Pass Order = 4
-Butterworth Low Pass Order = 4
+Butterworth Low Pass Order = 5
 Linkwitz-Riley High Pass Order = 4
 Linkwitz-Riley Low Pass Order = 4
 Bessel High Pass Order = 4
@@ -108,7 +108,7 @@ Bessel Low Pass Order = 4
 4th Order High Pass Q = 0.5
 4th Order Low Pass Q = 0.5
 
-Active Filter Alignment = 2
+Active Filter Alignment = 1
 Active Filter On / Off Switch = 3
 
 |PASSIVE FILTER PARAMETER VALUES:
@@ -160,7 +160,7 @@ Filter Type Index = 0
 Filter Input Index = 0
 Filter Output Index = 3
 
-Filter Type = 2
+Filter Type = 1
 
 MEH Configuration = 0
 ME Amplifier Polarity Value = 1
