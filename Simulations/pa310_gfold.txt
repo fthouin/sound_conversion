@@ -7,25 +7,25 @@ Comment = TL POC7 with 1 cm thick panels and Dayton PA310, WDH (34.1,65.2,100, D
 Ang = 2.0 x Pi
 Eg = 23.60
 Rg = 0.00
-Fta = 0.13
+Fta = 0.00
 
 |HORN PARAMETER VALUES:
 
-S1 = 518.00
-S2 = 518.00
-Par = 86.70
+S1 = 570.00
+S2 = 570.00
+Par = 77.80
 F12 = 0.00
-S2 = 518.00
-S3 = 691.00
-Par = 58.30
+S2 = 570.00
+S3 = 570.00
+Par = 54.50
 F23 = 0.00
-S3 = 691.00
-S4 = 691.00
-Par = 16.20
+S3 = 570.00
+S4 = 587.00
+Par = 15.40
 F34 = 0.00
-S4 = 691.00
-S5 = 709.00
-Con = 83.00
+S4 = 587.00
+S5 = 587.00
+Con = 73.30
 F45 = 0.00
 
 |TRADITIONAL DRIVER PARAMETER VALUES:
@@ -160,7 +160,7 @@ Filter Type Index = 0
 Filter Input Index = 0
 Filter Output Index = 0
 
-Filter Type = 1
+Filter Type = 2
 
 MEH Configuration = 0
 ME Amplifier Polarity Value = 1
