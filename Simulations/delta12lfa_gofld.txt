@@ -7,25 +7,25 @@ Comment = G-Fold with Eminence Delta 12FLA
 Ang = 2.0 x Pi
 Eg = 20.90
 Rg = 0.00
-Fta = -0.00
+Fta = 0.00
 
 |HORN PARAMETER VALUES:
 
-S1 = 576.00
-S2 = 576.00
+S1 = 620.00
+S2 = 620.00
 Par = 70.80
 F12 = 0.00
-S2 = 576.00
-S3 = 576.00
-Par = 47.30
+S2 = 620.00
+S3 = 620.00
+Par = 45.40
 F23 = 0.00
-S3 = 576.00
-S4 = 576.00
-Par = 15.40
+S3 = 620.00
+S4 = 620.00
+Par = 16.60
 F34 = 0.00
-S4 = 576.00
-S5 = 576.00
-Con = 68.40
+S4 = 620.00
+S5 = 620.00
+Con = 68.20
 F45 = 0.00
 
 |TRADITIONAL DRIVER PARAMETER VALUES:
@@ -93,14 +93,14 @@ Tal4 = 100
 
 High Pass Frequency = 34
 High Pass Slope = 1
-Low Pass Frequency = 186
+Low Pass Frequency = 174
 Low Pass Slope = 1
 
-Butterworth High Pass Order = 1
-Butterworth Low Pass Order = 2
-Linkwitz-Riley High Pass Order = 2
-Linkwitz-Riley Low Pass Order = 2
-Bessel High Pass Order = 5
+Butterworth High Pass Order = 6
+Butterworth Low Pass Order = 6
+Linkwitz-Riley High Pass Order = 6
+Linkwitz-Riley Low Pass Order = 6
+Bessel High Pass Order = 6
 Bessel Low Pass Order = 6
 
 2nd Order High Pass Q = 0.5
