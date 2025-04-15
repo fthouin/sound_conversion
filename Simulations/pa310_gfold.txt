@@ -1,6 +1,6 @@
 ID = 55.30
 
-Comment = TL POC7 with 1 cm thick panels and Dayton PA310, WDH (34.1,65.2,100, DO 2.)
+Comment = Dayton PA310 in GFOLD
 
 |RADIATION, SOURCE AND MOUTH PARAMETER VALUES:
 
@@ -11,21 +11,21 @@ Fta = 0.00
 
 |HORN PARAMETER VALUES:
 
-S1 = 570.00
-S2 = 570.00
-Par = 77.80
+S1 = 575.00
+S2 = 575.00
+Par = 76.20
 F12 = 0.00
-S2 = 570.00
-S3 = 570.00
-Par = 54.50
+S2 = 575.00
+S3 = 575.00
+Par = 51.50
 F23 = 0.00
-S3 = 570.00
-S4 = 587.00
-Par = 15.40
+S3 = 575.00
+S4 = 577.00
+Par = 15.30
 F34 = 0.00
-S4 = 587.00
-S5 = 587.00
-Con = 73.30
+S4 = 577.00
+S5 = 577.00
+Con = 73.40
 F45 = 0.00
 
 |TRADITIONAL DRIVER PARAMETER VALUES:
@@ -93,7 +93,7 @@ Tal4 = 100
 
 High Pass Frequency = 35
 High Pass Slope = 1
-Low Pass Frequency = 138
+Low Pass Frequency = 158
 Low Pass Slope = 1
 
 Butterworth High Pass Order = 1
@@ -101,7 +101,7 @@ Butterworth Low Pass Order = 2
 Linkwitz-Riley High Pass Order = 2
 Linkwitz-Riley Low Pass Order = 2
 Bessel High Pass Order = 3
-Bessel Low Pass Order = 6
+Bessel Low Pass Order = 5
 
 2nd Order High Pass Q = 0.5
 2nd Order Low Pass Q = 0.5
@@ -158,7 +158,7 @@ Continuous Flag = 1
 
 Filter Type Index = 0
 Filter Input Index = 0
-Filter Output Index = 0
+Filter Output Index = 1
 
 Filter Type = 2
 

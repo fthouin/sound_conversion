@@ -1,49 +1,49 @@
 ID = 55.30
 
-Comment = TL POC7 with 1 cm thick panels and Dayton Apollo12LF, (34.1,65.2,100, DO 2.)
+Comment = G-Fold with Eminence Delta 12FLC
 
 |RADIATION, SOURCE AND MOUTH PARAMETER VALUES:
 
-Ang = 0.5 x Pi
-Eg = 37.42
+Ang = 2.0 x Pi
+Eg = 15.90
 Rg = 0.00
-Fta = 0.00
+Fta = -0.00
 
 |HORN PARAMETER VALUES:
 
-S1 = 594.00
-S2 = 594.00
-Con = 95.00
+S1 = 576.00
+S2 = 576.00
+Par = 70.90
 F12 = 0.00
-S2 = 594.00
-S3 = 594.80
-Exp = 15.70
-F23 = 0.23
-S3 = 594.80
-S4 = 594.00
-Con = 112.40
+S2 = 576.00
+S3 = 576.00
+Par = 47.20
+F23 = 0.00
+S3 = 576.00
+S4 = 576.00
+Par = 15.40
 F34 = 0.00
-S4 = 594.00
-S5 = 594.00
-Con = 43.80
+S4 = 576.00
+S5 = 576.00
+Con = 68.40
 F45 = 0.00
 
 |TRADITIONAL DRIVER PARAMETER VALUES:
 
-Sd = 533.00
-Bl = 21.80
-Cms = 3.70E-04
-Rms = 2.96
-Mmd = 88.30
-Le = 1.47
-Re = 6.70
+Sd = 506.70
+Bl = 10.90
+Cms = 1.70E-04
+Rms = 2.19
+Mmd = 53.00
+Le = 0.95
+Re = 3.20
 OD = 1
 
 |ADVANCED DRIVER PARAMETER VALUES FOR SEMI-INDUCTANCE MODEL:
 
-Re' = 5.50
+Re' = 0.00
 Leb = 0.00
-Le = 1.68
+Le = 0.00
 Ke = 0.00
 Rss = 0.00
 
@@ -91,25 +91,25 @@ Tal4 = 100
 
 |ACTIVE BAND PASS FILTER PARAMETER VALUES:
 
-High Pass Frequency = 0
+High Pass Frequency = 35
 High Pass Slope = 1
-Low Pass Frequency = 0
+Low Pass Frequency = 186
 Low Pass Slope = 1
 
 Butterworth High Pass Order = 1
-Butterworth Low Pass Order = 1
+Butterworth Low Pass Order = 2
 Linkwitz-Riley High Pass Order = 2
 Linkwitz-Riley Low Pass Order = 2
-Bessel High Pass Order = 1
-Bessel Low Pass Order = 1
+Bessel High Pass Order = 6
+Bessel Low Pass Order = 6
 
 2nd Order High Pass Q = 0.5
 2nd Order Low Pass Q = 0.5
 4th Order High Pass Q = 0.5
 4th Order Low Pass Q = 0.5
 
-Active Filter Alignment = 1
-Active Filter On / Off Switch = 1
+Active Filter Alignment = 3
+Active Filter On / Off Switch = 3
 
 |PASSIVE FILTER PARAMETER VALUES:
 
@@ -160,7 +160,7 @@ Filter Type Index = 0
 Filter Input Index = 0
 Filter Output Index = 0
 
-Filter Type = 1
+Filter Type = 2
 
 MEH Configuration = 0
 ME Amplifier Polarity Value = 1

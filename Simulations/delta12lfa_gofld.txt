@@ -1,42 +1,42 @@
 ID = 55.30
 
-Comment = TL POC7 with 1 cm thick panels and Dayton PA310, WDH (34.1,64.2,85, DO 2.)
+Comment = G-Fold with Eminence Delta 12FLA
 
 |RADIATION, SOURCE AND MOUTH PARAMETER VALUES:
 
-Ang = 0.5 x Pi
-Eg = 20.00
+Ang = 2.0 x Pi
+Eg = 20.90
 Rg = 0.00
 Fta = 0.00
 
 |HORN PARAMETER VALUES:
 
-S1 = 644.00
-S2 = 644.00
-Con = 84.00
+S1 = 620.00
+S2 = 620.00
+Par = 70.80
 F12 = 0.00
-S2 = 644.00
-S3 = 644.00
-Exp = 15.10
+S2 = 620.00
+S3 = 620.00
+Par = 45.40
 F23 = 0.00
-S3 = 644.00
-S4 = 644.80
-Con = 92.00
+S3 = 620.00
+S4 = 620.00
+Par = 16.60
 F34 = 0.00
-S4 = 644.80
-S5 = 644.80
-Con = 43.80
+S4 = 620.00
+S5 = 620.00
+Con = 68.20
 F45 = 0.00
 
 |TRADITIONAL DRIVER PARAMETER VALUES:
 
-Sd = 530.90
-Bl = 18.11
-Cms = 2.28E-04
-Rms = 2.02
-Mmd = 72.80
-Le = 1.68
-Re = 5.50
+Sd = 506.70
+Bl = 14.10
+Cms = 1.90E-04
+Rms = 2.26
+Mmd = 51.00
+Le = 1.45
+Re = 6.06
 OD = 1
 
 |ADVANCED DRIVER PARAMETER VALUES FOR SEMI-INDUCTANCE MODEL:
@@ -60,10 +60,10 @@ Added Mass = 0.00
 
 Vrc = 0.00
 Lrc = 0.00
-Ap1 = 530.90
-Lp = 1.00
+Ap1 = 0.00
+Lp = 0.00
 Vtc = 0.00
-Atc = 530.90
+Atc = 0.00
 
 Acoustic Path Length = 0.0
 
@@ -91,25 +91,25 @@ Tal4 = 100
 
 |ACTIVE BAND PASS FILTER PARAMETER VALUES:
 
-High Pass Frequency = 0
+High Pass Frequency = 34
 High Pass Slope = 1
-Low Pass Frequency = 0
+Low Pass Frequency = 174
 Low Pass Slope = 1
 
-Butterworth High Pass Order = 1
-Butterworth Low Pass Order = 1
-Linkwitz-Riley High Pass Order = 2
-Linkwitz-Riley Low Pass Order = 2
-Bessel High Pass Order = 1
-Bessel Low Pass Order = 1
+Butterworth High Pass Order = 6
+Butterworth Low Pass Order = 6
+Linkwitz-Riley High Pass Order = 6
+Linkwitz-Riley Low Pass Order = 6
+Bessel High Pass Order = 6
+Bessel Low Pass Order = 6
 
 2nd Order High Pass Q = 0.5
 2nd Order Low Pass Q = 0.5
 4th Order High Pass Q = 0.5
 4th Order Low Pass Q = 0.5
 
-Active Filter Alignment = 1
-Active Filter On / Off Switch = 1
+Active Filter Alignment = 3
+Active Filter On / Off Switch = 3
 
 |PASSIVE FILTER PARAMETER VALUES:
 
@@ -160,7 +160,7 @@ Filter Type Index = 0
 Filter Input Index = 0
 Filter Output Index = 0
 
-Filter Type = 1
+Filter Type = 2
 
 MEH Configuration = 0
 ME Amplifier Polarity Value = 1
