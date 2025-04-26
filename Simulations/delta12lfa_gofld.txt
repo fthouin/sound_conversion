@@ -7,25 +7,25 @@ Comment = G-Fold with Eminence Delta 12FLA
 Ang = 2.0 x Pi
 Eg = 20.90
 Rg = 0.00
-Fta = 0.00
+Fta = -0.02
 
 |HORN PARAMETER VALUES:
 
-S1 = 620.00
-S2 = 620.00
-Par = 70.80
+S1 = 622.00
+S2 = 622.00
+Par = 66.40
 F12 = 0.00
-S2 = 620.00
-S3 = 620.00
-Par = 45.40
+S2 = 622.00
+S3 = 622.00
+Par = 36.70
 F23 = 0.00
-S3 = 620.00
-S4 = 620.00
-Par = 16.60
+S3 = 622.00
+S4 = 622.00
+Par = 19.20
 F34 = 0.00
-S4 = 620.00
+S4 = 622.00
 S5 = 620.00
-Con = 68.20
+Con = 65.00
 F45 = 0.00
 
 |TRADITIONAL DRIVER PARAMETER VALUES:
