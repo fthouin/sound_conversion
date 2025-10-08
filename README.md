@@ -1,5 +1,6 @@
 # Sub Sound-Conversion
 Convertissons 4 boites de transport en merisier baltique de lasers femtoseconde Lituanniens (Light Conversion) en subwoofers!
+<img width="1512" height="2016" alt="image" src="https://github.com/user-attachments/assets/05a9cd5f-ae77-43f3-aac1-22d2bfd83f3f" />
 
 ## Objectifs
 - Obtenir des basses plus profondes pour bien rendre la diversité de styles musicaux du collectif Cocktail Sonore
